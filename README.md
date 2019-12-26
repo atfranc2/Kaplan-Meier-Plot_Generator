@@ -26,5 +26,6 @@ survival_prob( df = survival_data, target = 'survive', time = 'hour', cencored =
 
 ```
 
+![Image of the surival and conditional failure probability plots]()
 
 
