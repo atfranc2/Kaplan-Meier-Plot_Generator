@@ -26,6 +26,6 @@ survival_prob( df = survival_data, target = 'survive', time = 'hour', cencored =
 
 ```
 
-![Image of the surival and conditional failure probability plots]()
+![Image of the surival and conditional failure probability plots]( https://github.com/atfranc2/Kaplan-Meier-Plot_Generator/blob/master/Survival_prob_plot.png )
 
 
